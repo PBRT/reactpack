@@ -1,0 +1,8 @@
+@font-face{
+  font-family: 'Adam';
+  src: url('../assets/fonts/AdamCG.otf');
+}
+html, body {
+  margin: 0;
+  font-family: 'Adam', sans-serif;
+}
