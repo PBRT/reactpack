@@ -1,5 +1,5 @@
 {
-  "name": "BeauPixel",
+  "name": "ReactPack",
   "version": "1.0.0",
   "description": "Show Off website based on webpack-express-react",
   "main": "server/server.js",
@@ -29,5 +29,6 @@
     "run": "./scripts/test.sh"
   },
   "author": "PBRT",
+  "repository": "PBRT/reactpack",
   "license": "ISC"
 }
